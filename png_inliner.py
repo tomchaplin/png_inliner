@@ -1,5 +1,3 @@
-#!/home/tom/.scripts/png_inliner/.venv/bin/python
-
 import io
 import sys
 import base64
