@@ -1,0 +1,5 @@
+.venv
+png_inliner
+png_inliner.build
+png_inliner.dist
+png_inliner.onefile-build
