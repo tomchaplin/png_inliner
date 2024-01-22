@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.3
+Nuitka==1.9.7
+ordered-set==4.1.0
+soupsieve==2.5
+zstandard==0.22.0
